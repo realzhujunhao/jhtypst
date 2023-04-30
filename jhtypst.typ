@@ -10,7 +10,6 @@
   show "any" : [$forall$]
   show "exist" : [$exists$]
   show "check" : [$checkmark$]
-  show "in" : [$in$]
   show "s.t" : [such that]
   doc
 }
