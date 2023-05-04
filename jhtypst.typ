@@ -5,12 +5,14 @@
     #block(text(weight: 700, 1.75em, title))
   ]
   set align(left)
+  set heading(numbering: "1.1")
   show "then" : [$=>$]
   show "iff" : [$<=>$]
   show "any" : [$forall$]
   show "exist" : [$exists$]
   show "check" : [$checkmark$]
   show "s.t" : [such that]
+  show "num" : [$hash$]
   doc
 }
 
